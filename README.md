@@ -37,10 +37,15 @@ STEP2
         Extract columns which has name with "mean()" or "std()"  
                 and subject/acitivity name  
         
-Save CSV and TXT file with the first data set.  
+Save CSV and TXT file with the first data set.    
+        tidy_dataset_1.csv  
+        tidy_dataset_1.txt  
+        
 
 STEP5  
         Creates the second tidy data set with the average of each variable   
         for each activity and each subject  
 
 Save CSV and TXT file with the second data set.  
+        tidy_dataset_2.csv  
+        tidy_dataset_2.txt        
